@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: c359b5ab1a979de42b75c84ad849ea51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7177291271619740860
+    second: aaron left_0
+  - first:
+      213: -8227114258986282163
+    second: aaron left_1
+  - first:
+      213: -7511591167344938540
+    second: aaron left_2
+  - first:
+      213: 2184205697009081825
+    second: aaron left_3
+  - first:
+      213: -2170408303299427750
+    second: aaron left_4
+  - first:
+      213: 7886585265173692437
+    second: aaron left_5
+  - first:
+      213: -7174819729464782275
+    second: aaron left_6
+  - first:
+      213: -6459888885975120768
+    second: aaron left_7
+  - first:
+      213: -6474439053185920365
+    second: aaron left_8
+  - first:
+      213: -740703088560960953
+    second: aaron left_9
+  - first:
+      213: -3180918534775066537
+    second: aaron left_10
+  - first:
+      213: 8425188413203272932
+    second: aaron left_11
+  - first:
+      213: 5143803359693785070
+    second: aaron left_12
+  - first:
+      213: 4776829574089315924
+    second: aaron left_13
+  - first:
+      213: -6863925927465788338
+    second: aaron left_14
+  - first:
+      213: -2626470246857815375
+    second: aaron left_15
+  - first:
+      213: 4559191985607362377
+    second: aaron left_16
+  - first:
+      213: 7391213939887420487
+    second: aaron left_17
+  - first:
+      213: -199899041738312028
+    second: aaron left_18
+  - first:
+      213: 79948107849725274
+    second: aaron left_19
+  - first:
+      213: 2451395140013209173
+    second: aaron left_20
+  - first:
+      213: -2216184974198183765
+    second: aaron left_21
+  - first:
+      213: 2425060713332591171
+    second: aaron left_22
+  - first:
+      213: 7450342318365897893
+    second: aaron left_23
+  - first:
+      213: -6387053980150135175
+    second: aaron left_24
+  - first:
+      213: 5629857157892845609
+    second: aaron left_25
+  - first:
+      213: -2602827159410312690
+    second: aaron left_26
+  - first:
+      213: -1697907975446130929
+    second: aaron left_27
+  - first:
+      213: -219215955267105613
+    second: aaron left_28
+  - first:
+      213: 2446763072650517586
+    second: aaron left_29
+  - first:
+      213: -4103370516462940489
+    second: aaron left_30
+  - first:
+      213: -4746080338746007926
+    second: aaron left_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aaron left_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 278
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40866726cda9360800000000000000
+      internalID: 7177291271619740860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 278
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43529aab2b63dd80800000000000000
+      internalID: -8227114258986282163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17174a1a771c790800000000000000
+      internalID: -7511591167344938540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 194
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5c9e428bdf4e10800000000000000
+      internalID: 2184205697009081825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 277
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a528740c52921e1e0800000000000000
+      internalID: -2170408303299427750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 278
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51002858387c27d60800000000000000
+      internalID: 7886585265173692437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 278
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3299c9487bed6c90800000000000000
+      internalID: -7174819729464782275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 278
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08485feb84dd956a0800000000000000
+      internalID: -6459888885975120768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392dfe2fbfb2626a0800000000000000
+      internalID: -6474439053185920365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 192
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0a42277e78b5f0800000000000000
+      internalID: -740703088560960953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 192
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750b643227b1bd3d0800000000000000
+      internalID: -3180918534775066537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 192
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4d7b629384ce470800000000000000
+      internalID: 8425188413203272932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 192
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7420117e5726740800000000000000
+      internalID: 5143803359693785070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 192
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4569c2c5035ba4240800000000000000
+      internalID: 4776829574089315924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 102
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cdec05cbf6eb0a0800000000000000
+      internalID: -6863925927465788338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 101
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba48e2e937ec8bd0800000000000000
+      internalID: -2626470246857815375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 102
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9474fec84f0854f30800000000000000
+      internalID: 4559191985607362377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 104
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b7e10bedd29660800000000000000
+      internalID: 7391213939887420487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 102
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63f3271e0d93df0800000000000000
+      internalID: -199899041738312028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 101
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f8d861680c1100800000000000000
+      internalID: 79948107849725274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_20
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 102
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5563b9c44ea150220800000000000000
+      internalID: 2451395140013209173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_21
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 104
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8eb5002878e31e0800000000000000
+      internalID: -2216184974198183765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 16
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac1f8cedb87a120800000000000000
+      internalID: 2425060713332591171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4724d6ddee46760800000000000000
+      internalID: 7450342318365897893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97608efbe30ac57a0800000000000000
+      internalID: -6387053980150135175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 16
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920b460c145412e40800000000000000
+      internalID: 5629857157892845609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 16
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0afb972d76e0ebd0800000000000000
+      internalID: -2602827159410312690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 16
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f0b3631b1df68e0800000000000000
+      internalID: -1697907975446130929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_28
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 16
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc439004035fcf0800000000000000
+      internalID: -219215955267105613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_29
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 16
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c90e21d06a4f120800000000000000
+      internalID: 2446763072650517586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 277
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be4a608146ed07c0800000000000000
+      internalID: -4103370516462940489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaron left_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 278
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e1495e319822eb0800000000000000
+      internalID: -4746080338746007926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

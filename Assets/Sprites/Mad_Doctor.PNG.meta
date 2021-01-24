@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: 77a367515e799564caacba829cac3938
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -508412298020691275
+    second: Mad_Doctor_0
+  - first:
+      213: 1987937474973535522
+    second: Mad_Doctor_1
+  - first:
+      213: 263528890388288560
+    second: Mad_Doctor_2
+  - first:
+      213: 8415761822449164749
+    second: Mad_Doctor_3
+  - first:
+      213: 7768955088869838543
+    second: Mad_Doctor_4
+  - first:
+      213: 3956168643695396881
+    second: Mad_Doctor_5
+  - first:
+      213: 8735136801033609809
+    second: Mad_Doctor_6
+  - first:
+      213: 5358622796757400708
+    second: Mad_Doctor_7
+  - first:
+      213: 618913611029692551
+    second: Mad_Doctor_8
+  - first:
+      213: 1158348348643371773
+    second: Mad_Doctor_9
+  - first:
+      213: -5806719601685332277
+    second: Mad_Doctor_10
+  - first:
+      213: -8368423095715827049
+    second: Mad_Doctor_11
+  - first:
+      213: 7728736212493665663
+    second: Mad_Doctor_12
+  - first:
+      213: 4912610182185989205
+    second: Mad_Doctor_13
+  - first:
+      213: -4070367561296276871
+    second: Mad_Doctor_14
+  - first:
+      213: 6696106994313882744
+    second: Mad_Doctor_15
+  - first:
+      213: -1081802932046559353
+    second: Mad_Doctor_16
+  - first:
+      213: 8563861961212906093
+    second: Mad_Doctor_17
+  - first:
+      213: -867192483463377722
+    second: Mad_Doctor_18
+  - first:
+      213: 3810031721639853593
+    second: Mad_Doctor_19
+  - first:
+      213: 8670066010909064000
+    second: Mad_Doctor_20
+  - first:
+      213: 6365786489291588090
+    second: Mad_Doctor_21
+  - first:
+      213: -5869342098167359616
+    second: Mad_Doctor_22
+  - first:
+      213: -2746797995248635810
+    second: Mad_Doctor_23
+  - first:
+      213: -6630344603201481354
+    second: Mad_Doctor_24
+  - first:
+      213: -999965215333083284
+    second: Mad_Doctor_25
+  - first:
+      213: 5160982821069851539
+    second: Mad_Doctor_26
+  - first:
+      213: -3307948572604701706
+    second: Mad_Doctor_27
+  - first:
+      213: -7398308969899278679
+    second: Mad_Doctor_28
+  - first:
+      213: -1035839969381192018
+    second: Mad_Doctor_29
+  - first:
+      213: -3827852888609261837
+    second: Mad_Doctor_30
+  - first:
+      213: -1947036488572314452
+    second: Mad_Doctor_31
+  - first:
+      213: 7884945295163525025
+    second: Mad_Doctor_32
+  - first:
+      213: -3048558033986273618
+    second: Mad_Doctor_33
+  - first:
+      213: 3925279340557393622
+    second: Mad_Doctor_34
+  - first:
+      213: 2608297613088834622
+    second: Mad_Doctor_35
+  - first:
+      213: -1729725293223830820
+    second: Mad_Doctor_36
+  - first:
+      213: -7671515002344403780
+    second: Mad_Doctor_37
+  - first:
+      213: -7158300413464177947
+    second: Mad_Doctor_38
+  - first:
+      213: 5217237507542729755
+    second: Mad_Doctor_39
+  - first:
+      213: 8629288772664871379
+    second: Mad_Doctor_40
+  - first:
+      213: 9133310105410331818
+    second: Mad_Doctor_41
+  - first:
+      213: 5411403717336491053
+    second: Mad_Doctor_42
+  - first:
+      213: -8222212361018831774
+    second: Mad_Doctor_43
+  - first:
+      213: 5596407129934051839
+    second: Mad_Doctor_44
+  - first:
+      213: 4610570731961687803
+    second: Mad_Doctor_45
+  - first:
+      213: 1291882674270405746
+    second: Mad_Doctor_46
+  - first:
+      213: 7296173893609201315
+    second: Mad_Doctor_47
+  - first:
+      213: 6835386644452206032
+    second: Mad_Doctor_48
+  - first:
+      213: 7813188567312440372
+    second: Mad_Doctor_49
+  - first:
+      213: -5237115078476053676
+    second: Mad_Doctor_50
+  - first:
+      213: -8921419964251574589
+    second: Mad_Doctor_51
+  - first:
+      213: -7709068611568762857
+    second: Mad_Doctor_52
+  - first:
+      213: -8750254343969471421
+    second: Mad_Doctor_53
+  - first:
+      213: -1502676606878763637
+    second: Mad_Doctor_54
+  - first:
+      213: -7436855027794694311
+    second: Mad_Doctor_55
+  - first:
+      213: 9161049534279512649
+    second: Mad_Doctor_56
+  - first:
+      213: 2612858778348856799
+    second: Mad_Doctor_57
+  - first:
+      213: 1900517911075339447
+    second: Mad_Doctor_58
+  - first:
+      213: -4766047091814949183
+    second: Mad_Doctor_59
+  - first:
+      213: 2161304131127663628
+    second: Mad_Doctor_60
+  - first:
+      213: 1070113530635301169
+    second: Mad_Doctor_61
+  - first:
+      213: 1836876386227239035
+    second: Mad_Doctor_62
+  - first:
+      213: -4253828832923825378
+    second: Mad_Doctor_63
+  - first:
+      213: 3277677099788743304
+    second: Mad_Doctor_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mad_Doctor_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 282
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2690965b1c1f8f0800000000000000
+      internalID: -508412298020691275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 385
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d0c77d992969b10800000000000000
+      internalID: 1987937474973535522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 385
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03495ab212e38a300800000000000000
+      internalID: 263528890388288560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 373
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc16065f9cacac470800000000000000
+      internalID: 8415761822449164749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 373
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 35, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcecc0cdd7fd0db60800000000000000
+      internalID: 7768955088869838543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 376
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c007bb6227e630800000000000000
+      internalID: 3956168643695396881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 329
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152ec0ac3a0793970800000000000000
+      internalID: 8735136801033609809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 368
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cf80eda07ad5a40800000000000000
+      internalID: 5358622796757400708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 343
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780441c66a2d69800800000000000000
+      internalID: 618913611029692551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 344
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6c079fa7431010800000000000000
+      internalID: 1158348348643371773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 308
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce7f3f99436a6fa0800000000000000
+      internalID: -5806719601685332277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 309
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792fea148836ddb80800000000000000
+      internalID: -8368423095715827049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 311
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75026cf2acf14b60800000000000000
+      internalID: 7728736212493665663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 314
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554b92dbee81d2440800000000000000
+      internalID: 4912610182185989205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 325
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97299abc4462387c0800000000000000
+      internalID: -4070367561296276871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 314
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c661675d95dec50800000000000000
+      internalID: 6696106994313882744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 282
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787836607f9acf0f0800000000000000
+      internalID: -1081802932046559353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 250
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a43979413f8d670800000000000000
+      internalID: 8563861961212906093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 247
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc647e70d17f3f0800000000000000
+      internalID: -867192483463377722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 252
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e30571aa3ffd430800000000000000
+      internalID: 3810031721639853593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 253
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b3c67d913425870800000000000000
+      internalID: 8670066010909064000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 253
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c43aa511d75850800000000000000
+      internalID: 6365786489291588090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 252
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0871d757578eb8ea0800000000000000
+      internalID: -5869342098167359616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 238
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503377c6c961e9d0800000000000000
+      internalID: -2746797995248635810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 242
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6755fb366b84cf3a0800000000000000
+      internalID: -6630344603201481354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 242
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6713584fe86f12f0800000000000000
+      internalID: -999965215333083284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 185
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b03cd188e7f9740800000000000000
+      internalID: 5160982821069851539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 191
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e2aaac4ec712d0800000000000000
+      internalID: -3307948572604701706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 181
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3196903de35990800000000000000
+      internalID: -7398308969899278679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 181
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee1e43905ff91f0800000000000000
+      internalID: -1035839969381192018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 185
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6fdf1241cb0eac0800000000000000
+      internalID: -3827852888609261837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5ce521acbaf4e0800000000000000
+      internalID: -1947036488572314452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 185
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70c9f38f3fc6d60800000000000000
+      internalID: 7884945295163525025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 189
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeb51bbe9851b5d0800000000000000
+      internalID: -3048558033986273618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 191
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de5a1263c4697630800000000000000
+      internalID: 3925279340557393622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34c8a81cd8823420800000000000000
+      internalID: 2608297613088834622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 122
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda9262a208cef7e0800000000000000
+      internalID: -1729725293223830820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 121
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc8e2430cd498590800000000000000
+      internalID: -7671515002344403780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 123
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e29fe343bb98ac90800000000000000
+      internalID: -7158300413464177947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 127
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14cde9fed9576840800000000000000
+      internalID: 5217237507542729755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 130
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c4f63b6461c770800000000000000
+      internalID: 8629288772664871379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 125
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e778862900ce70800000000000000
+      internalID: 9133310105410331818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_42
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 128
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e114920b291b40800000000000000
+      internalID: 5411403717336491053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 142
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c85a9bb65d4ed80800000000000000
+      internalID: -8222212361018831774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_44
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 143
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9be2632ae6aad40800000000000000
+      internalID: 5596407129934051839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe936227a90cff30800000000000000
+      internalID: 4610570731961687803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 61
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2748e539270bde110800000000000000
+      internalID: 1291882674270405746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 78
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae1e0cdf77314560800000000000000
+      internalID: 7296173893609201315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5e50d00fb2cde50800000000000000
+      internalID: 6835386644452206032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 81
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c1dcd1b950e6c60800000000000000
+      internalID: 7813188567312440372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 70
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453c79365970257b0800000000000000
+      internalID: -5237115078476053676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_51
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 69
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee4ba6fcfb03480800000000000000
+      internalID: -8921419964251574589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_52
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 68
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710845231f2e30590800000000000000
+      internalID: -7709068611568762857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_53
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 69
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448165f80ad09680800000000000000
+      internalID: -8750254343969471421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_54
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 79
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b3ba669b652be0800000000000000
+      internalID: -1502676606878763637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f283e11cbfac890800000000000000
+      internalID: -7436855027794694311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942fc7c9306922f70800000000000000
+      internalID: 9161049534279512649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5aeb3273db24420800000000000000
+      internalID: 2612858778348856799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 28
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb9e288feff5a10800000000000000
+      internalID: 1900517911075339447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_59
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 26
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce169deb699bddb0800000000000000
+      internalID: -4766047091814949183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_60
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 26
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cd27bf7ae7efd10800000000000000
+      internalID: 2161304131127663628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_61
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 26
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1313bde169ec9de00800000000000000
+      internalID: 1070113530635301169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_62
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 26
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b0615755ed7910800000000000000
+      internalID: 1836876386227239035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_63
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 25
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bc246d63d57f4c0800000000000000
+      internalID: -4253828832923825378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad_Doctor_64
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 25
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823755d4f5ac7d20800000000000000
+      internalID: 3277677099788743304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: e336d9e539204ed46bfe580e3c3d430f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1281528037857990595
+    second: Doc-Mask_0
+  - first:
+      213: 4306585740621267908
+    second: Doc-Mask_1
+  - first:
+      213: -9166228315337180146
+    second: Doc-Mask_2
+  - first:
+      213: -2395800344652683144
+    second: Doc-Mask_5
+  - first:
+      213: -5894386111237669370
+    second: Doc-Mask_5
+  - first:
+      213: 7687835832985963418
+    second: Doc-Mask_3
+  - first:
+      213: 5717552616159883598
+    second: Doc-Mask_6
+  - first:
+      213: 7016277864893900047
+    second: Doc-Mask_7
+  - first:
+      213: -3502632735173493851
+    second: Doc-Mask_8
+  - first:
+      213: 2636496048930081833
+    second: Doc-Mask_9
+  - first:
+      213: 7047214904617588246
+    second: Doc-Mask_10
+  - first:
+      213: -917810836468925616
+    second: Doc-Mask_11
+  - first:
+      213: 5582912789949750507
+    second: Doc-Mask_5
+  - first:
+      213: -1962247637936005305
+    second: Doc-Mask_3
+  - first:
+      213: 5910802577304827260
+    second: Doc-Mask_5
+  - first:
+      213: 1549959599700475567
+    second: Doc-Mask_3
+  - first:
+      213: 6138441690517179730
+    second: Doc-Mask_5
+  - first:
+      213: 3895030444194598027
+    second: Doc-Mask_3
+  - first:
+      213: 1832950025120125560
+    second: Doc-Mask_5
+  - first:
+      213: -338457500897164132
+    second: Doc-Mask_3
+  - first:
+      213: 2797752811384153623
+    second: Doc-Mask_5
+  - first:
+      213: -1184138577849727041
+    second: Doc-Mask_3
+  - first:
+      213: -2233445837103214141
+    second: Doc-Mask_5
+  - first:
+      213: -9102762513716907455
+    second: Doc-Mask_3
+  - first:
+      213: 1361433468441307752
+    second: Doc-Mask_5
+  - first:
+      213: -7238852604867418198
+    second: Doc-Mask_3
+  - first:
+      213: 8650795815994491692
+    second: Doc-Mask_5
+  - first:
+      213: 3090470816450871963
+    second: Doc-Mask_3
+  - first:
+      213: -774656313140796364
+    second: Doc-Mask_5
+  - first:
+      213: 124053368206033525
+    second: Doc-Mask_3
+  - first:
+      213: 2001910990255742777
+    second: Doc-Mask_5
+  - first:
+      213: 2836711175257712505
+    second: Doc-Mask_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doc-Mask_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 278
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c79a3ae5f6e8c110800000000000000
+      internalID: 1281528037857990595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 278
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c34e70f9e014cb30800000000000000
+      internalID: 4306585740621267908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 278
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c333679e30bc080800000000000000
+      internalID: -9166228315337180146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 277
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878e730b74860ced0800000000000000
+      internalID: -2395800344652683144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 196
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ebea6cf0fe23ea0800000000000000
+      internalID: -5894386111237669370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 193
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc5ac45fda0ba60800000000000000
+      internalID: 7687835832985963418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 278
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b0debfc3d85f40800000000000000
+      internalID: 5717552616159883598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 278
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ef665b83de5160800000000000000
+      internalID: 7016277864893900047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab3459c516246fc0800000000000000
+      internalID: -3502632735173493851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 192
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc2301037b69420800000000000000
+      internalID: 2636496048930081833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 192
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d1953e9cbcc160800000000000000
+      internalID: 7047214904617588246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 192
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf34138e74343f0800000000000000
+      internalID: -917810836468925616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 192
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec90f85a9d7a7d40800000000000000
+      internalID: 5582912789949750507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 192
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f99737b22b4c4e0800000000000000
+      internalID: -1962247637936005305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b7b590a3670250800000000000000
+      internalID: 5910802577304827260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 102
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae7a5c3b00928510800000000000000
+      internalID: 1549959599700475567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 101
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d89b5d130203550800000000000000
+      internalID: 6138441690517179730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 102
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c0d8f5d8ded0630800000000000000
+      internalID: 3895030444194598027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87214522652ff6910800000000000000
+      internalID: 1832950025120125560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 102
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94457732be8d4bf0800000000000000
+      internalID: -338457500897164132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 101
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71627ebdb5d93d620800000000000000
+      internalID: 2797752811384153623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_23
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 102
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb74e6ebc38119fe0800000000000000
+      internalID: -1184138577849727041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1536e28d43101e0800000000000000
+      internalID: -2233445837103214141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1427927e8bd7ca180800000000000000
+      internalID: -9102762513716907455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 16
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa5cfb688c4e210800000000000000
+      internalID: 1361433468441307752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76771b8ed6a8b90800000000000000
+      internalID: -7238852604867418198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 16
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2389c4f5fccd0870800000000000000
+      internalID: 8650795815994491692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 16
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92044365de83ea20800000000000000
+      internalID: 3090470816450871963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 16
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434aa30003edf35f0800000000000000
+      internalID: -774656313140796364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_31
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 16
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5728c1191e9b8b100800000000000000
+      internalID: 124053368206033525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 277
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fd426607738cb10800000000000000
+      internalID: 2001910990255742777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doc-Mask_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ed9bc8c50e5720800000000000000
+      internalID: 2836711175257712505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

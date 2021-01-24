@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 2b3a58e7911c0d140854646b7295c62d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7874830188755010387
+    second: dude_animation_sheet_0
+  - first:
+      213: -3805915940839902342
+    second: dude_animation_sheet_1
+  - first:
+      213: 325321841359770158
+    second: dude_animation_sheet_2
+  - first:
+      213: 5569277488701998093
+    second: dude_animation_sheet_3
+  - first:
+      213: -5605183810397241826
+    second: dude_animation_sheet_4
+  - first:
+      213: -8705346898171636694
+    second: dude_animation_sheet_5
+  - first:
+      213: 6085197644653962348
+    second: dude_animation_sheet_6
+  - first:
+      213: -5465419500072546889
+    second: dude_animation_sheet_7
+  - first:
+      213: 1114247675083782040
+    second: dude_animation_sheet_8
+  - first:
+      213: 1502931429012846104
+    second: dude_animation_sheet_9
+  - first:
+      213: 6795988437972636319
+    second: dude_animation_sheet_10
+  - first:
+      213: 8411879428318920152
+    second: dude_animation_sheet_11
+  - first:
+      213: 2308641843501416964
+    second: dude_animation_sheet_12
+  - first:
+      213: -4404591311288567350
+    second: dude_animation_sheet_13
+  - first:
+      213: 6925439884470782621
+    second: dude_animation_sheet_14
+  - first:
+      213: 8912931117333021965
+    second: dude_animation_sheet_15
+  - first:
+      213: -5160352908238202279
+    second: dude_animation_sheet_16
+  - first:
+      213: 415664769362471459
+    second: dude_animation_sheet_17
+  - first:
+      213: -2760145519159007746
+    second: dude_animation_sheet_18
+  - first:
+      213: 4029196033347455129
+    second: dude_animation_sheet_19
+  - first:
+      213: -2001526151088273665
+    second: dude_animation_sheet_20
+  - first:
+      213: 5933327297237411392
+    second: dude_animation_sheet_21
+  - first:
+      213: -1930705925125523812
+    second: dude_animation_sheet_22
+  - first:
+      213: 4156306916316833121
+    second: dude_animation_sheet_23
+  - first:
+      213: 1904631689980538220
+    second: dude_animation_sheet_24
+  - first:
+      213: 3978764624903145016
+    second: dude_animation_sheet_25
+  - first:
+      213: 6224164396054111956
+    second: dude_animation_sheet_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dude_animation_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 882
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d00531b5d655745929aaabb761b6f4
+      internalID: -7874830188755010387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 869
+        width: 125
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41707fbbfb1534b43a74409b50474b7c
+      internalID: -3805915940839902342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 872
+        width: 123
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715056205d7ff64bb88c33e754439c3
+      internalID: 325321841359770158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 877
+        width: 118
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c91083c288dce94eae6023577708647
+      internalID: 5569277488701998093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 873
+        width: 116
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ccbf0c7f242fa4e83b7c214f17b863
+      internalID: -5605183810397241826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 876
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc0acc7414a8154c8bf264c25c415a7
+      internalID: -8705346898171636694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 875
+        width: 119
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0e26c11ba1754cb36a93edc33acb0
+      internalID: 6085197644653962348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 719
+        width: 118
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10a144487f54f40827652948a111c3
+      internalID: -5465419500072546889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 727
+        width: 116
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263c648014f798c469679e73203c0264
+      internalID: 1114247675083782040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 726
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7052df1ee52f14b8e597d72d8a9213
+      internalID: 1502931429012846104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 732
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b671b7d70a34946b0b1a5bf45c4f48
+      internalID: 6795988437972636319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 730
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0af34477972db41bf17ab269e128f1
+      internalID: 8411879428318920152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 726
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8c7662426d5644969594474d73156
+      internalID: 2308641843501416964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 727
+        width: 118
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf6e5f5d4a54044b24807d3ba3dc0b
+      internalID: -4404591311288567350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 584
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01a31010df12d14cbb94418924485ef
+      internalID: 6925439884470782621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 586
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a216b08a935454bbbe1aa4a47ffd57
+      internalID: 8912931117333021965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 586
+        width: 118
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc16f150deb9cd489bb3b5aef019683
+      internalID: -5160352908238202279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 581
+        width: 121
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0a62b02cc8fb4e84d18b171f2abcc
+      internalID: 415664769362471459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 574
+        width: 115
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12a366addf9c040a307b20c8b34896
+      internalID: -2760145519159007746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 574
+        width: 132
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52db3fafe8ee3747b18f91e0cbfa931
+      internalID: 4029196033347455129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 579
+        width: 130
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb2f6b0dc18a2b4baf3bd5b7af3a3d8
+      internalID: -2001526151088273665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26312e5143162c44f8bb1ee31be924f5
+      internalID: 5933327297237411392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 417
+        width: 118
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e91f2ce7685a4b974b334dc3a5a37
+      internalID: -1930705925125523812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 422
+        width: 115
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84340851176b8cf4488038b6ccb4334e
+      internalID: 4156306916316833121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 427
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292f3df3a877d1843bdf1a78177c306f
+      internalID: 1904631689980538220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 417
+        width: 126
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c846e2c7244a44aa06e7f6bacf9f5
+      internalID: 3978764624903145016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dude_animation_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 422
+        width: 129
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8be06764f0cdb64680c656a51924101
+      internalID: 6224164396054111956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
